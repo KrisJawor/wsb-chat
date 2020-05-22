@@ -2,6 +2,7 @@
 
 Aplikację przygotowali:
 
+
 1.Chołyk Bogusław
 2.
 3.
@@ -10,6 +11,7 @@ Aplikację przygotowali:
 
 
 1. Cel projektu.
+
 Stworzenie aplikacji polegającej na możliwości wymiany informacji z wybranym z dostępnych użytkowników.
 
 2. Organizacja projektu
@@ -17,6 +19,7 @@ Stworzenie aplikacji polegającej na możliwości wymiany informacji z wybranym 
 **Czas realizacji projektu: 23.02.2020 do 25.05.2020.**
 
 Osoby odpowiedzialne za poszczególne części projektu:
+
 -	Chołyk Bogusław – dokumentacja, komunikacja w zespole oraz z managerem projektu. 23.02.2020 – 24.05.2020
 -	…………………. – wygląd aplikacji (CSS) 23.02.2020 – 11.05.2020
 -	…………………. – Backend aplikacji 23.02.2020 – 11.05.2020
