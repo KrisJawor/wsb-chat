@@ -4,7 +4,7 @@ Aplikację przygotowali:
 
 1. Chołyk Bogusław
 2. Paweł Włodarski
-3.
+3. Michał Sikorski
 4.
 5.
 
@@ -23,7 +23,7 @@ Osoby odpowiedzialne za poszczególne części projektu:
 * …………………. – wygląd aplikacji (CSS) 23.02.2020 – 11.05.2020
 * Włodarski Paweł – Backend aplikacji 23.02.2020 – 11.05.2020
 * …………………. – testowanie aplikacji 22.03.2020 – 24.05.2020
-* …………………. – rozwój i skalowanie aplikacji 26.03.2020 – 24.05.2020
+* Michał Sikorski – rozwój i skalowanie aplikacji 26.03.2020 – 24.05.2020
 
 ## 3.Architektura aplikacji 
 Prostota oraz ogólnodostępność aplikacji sprawiły, iż najkorzystniejszym do jej stworzenia było użycie kombinacji języka PHP (Backend) i JavaScript (Frontend).
@@ -36,4 +36,14 @@ Ograniczona ilość użytkowników uzależniona jest od zasobów serwera.
 TUTAJ WPISZ TEKST 😊 i z 1-2 screeny	
 
 ## 5. Skalowanie Aplikacji
-TUTAJ COŚ TEŻ NAPISAĆ 😊
+W aplikacji użyto automatycznego skalowania pionowego. Zwiększającego dostępne zasoby sprzętowe, w zależności od wykorzystania.
+Przykładowa konfiguracja na platformie Azure, sprowadza się do określenia reguł, kiedy skalowanie ma być uruchomione. 
+
+Przechodzimy do sekcji autoskalowania zasobu. 
+![1](https://user-images.githubusercontent.com/57036751/82708547-ce596980-9c7e-11ea-95fa-f2a595114b78.png)
+
+Dodajemy regułę z ustawieniami domyślnymi, a następnie regułę z ustawieniami operatora na wartości "mniejsze niż" i próg metryki na "20", wartość parametru operacja, na "zmniejsz liczbę o"
+![2](https://user-images.githubusercontent.com/57036751/82708564-d7e2d180-9c7e-11ea-8d9a-f0655bc7dd93.png)
+
+W efekcie otrzymujemy takie reguły.
+![3](https://user-images.githubusercontent.com/57036751/82708571-d9ac9500-9c7e-11ea-9bfd-8bd1c082c4c5.png)
