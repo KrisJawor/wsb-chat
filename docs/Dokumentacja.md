@@ -13,6 +13,7 @@ Aplikację przygotowali:
 Stworzenie aplikacji polegającej na możliwości wymiany informacji z wybranym z dostępnych użytkowników.
 
 2. Organizacja projektu
+
 **Czas realizacji projektu: 23.02.2020 do 25.05.2020.**
 
 Osoby odpowiedzialne za poszczególne części projektu:
