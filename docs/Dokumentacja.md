@@ -28,7 +28,9 @@ Prostota oraz ogólnodostępność aplikacji sprawiły, iż najkorzystniejszym d
 W celu zapewnienia interakcji (dwukierunkowej, swobodnej wymianie komunikatów) między serwerem a aplikacją, użyta została technologia WebSocket. Umożliwia ona serwerowi wysyłanie danych do przeglądarki, nawet wtedy, jeżeli przeglądarka o te dane nie zapyta. Wystarczy, że wcześniej zostanie zestawiony odpowiedni kanał komunikacyjny.
 
 Aplikacja posiada ograniczenia w postaci ilości użytkowników, którą definiują zasoby serwera.
+
 Ograniczona ilość użytkowników uzależniona jest od zasobów serwera.
+
 ^^wybrac jedno zdanie lepsze^^
 
 4. Testowanie Aplikacji
