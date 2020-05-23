@@ -5,7 +5,7 @@ Aplikację przygotowali:
 1. Chołyk Bogusław
 2. Paweł Włodarski
 3. Michał Sikorski
-4.
+4. Krzysztof Jaworski
 5.
 
 
@@ -20,7 +20,7 @@ Stworzenie aplikacji polegającej na możliwości wymiany informacji z wybranym 
 Osoby odpowiedzialne za poszczególne części projektu:
 
 * Chołyk Bogusław – dokumentacja, komunikacja w zespole oraz z managerem projektu. 23.02.2020 – 24.05.2020
-* …………………. – wygląd aplikacji (CSS) 23.02.2020 – 11.05.2020
+* Krzysztof Jaworski – wygląd aplikacji (CSS) 23.02.2020 – 11.05.2020
 * Włodarski Paweł – Backend aplikacji 23.02.2020 – 11.05.2020
 * …………………. – testowanie aplikacji 22.03.2020 – 24.05.2020
 * Michał Sikorski – rozwój i skalowanie aplikacji 26.03.2020 – 24.05.2020
