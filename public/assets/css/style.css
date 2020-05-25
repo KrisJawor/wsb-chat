@@ -25,12 +25,12 @@ body {
 
 #chat {
     background: #EAEAEA;
-    border: #CCC;
+    border: 1px solid #CCC;
     padding: 20px;
 }
 .login-btn{
     cursor: pointer;
-    font-weight: bold;
+    font-weight: 600;
 }
 .msg-container{
     min-height: 300px;
